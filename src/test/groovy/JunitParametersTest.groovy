@@ -15,8 +15,8 @@ class JunitParametersTest{
         cases[0] = [ "World", "Hello World Groovy"]
         cases[1] = [ "Casa", "Hello Casa Groovy"]
         cases[2] = [ "Mundo", "Hello Mundo Groovy"]
-        //cases[3] = [ "Planeta", "Hello Planeta Groovy"]
-        cases[3] = [ "Planeta", "Hello Planeta Groovy1"]
+        cases[3] = [ "Planeta", "Hello Planeta Groovy"]
+        //cases[3] = [ "Planeta", "Hello Planeta Groovy1"]
         Arrays.asList(cases)
     }
 
